@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Practice_project
+Bundle-SymbolicName: com.idlogix.practice
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.adempiere.base;bundle-version="11.0.0",
+ org.adempiere.plugin.utils;bundle-version="11.0.0"
+Service-Component: practice_component.xml
+Automatic-Module-Name: practice.project
+Bundle-RequiredExecutionEnvironment: JavaSE-17
